@@ -3,5 +3,3 @@
 
 [![Portfolio](https://streak-stats.demolab.com/?user=venomsurgut&theme=transparent)](https://venomsurgut.space)
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=venomsurgut&show_icons=true&theme=dracula)](https://venomsurgut.space)
-
